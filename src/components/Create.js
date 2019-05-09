@@ -49,7 +49,7 @@ class Create extends Component {
             <Row>
               <Card className="content">
                  <Card.Body>
-                   <Card.Title style={{textAlign:"center"}}><h3> ADD BOARD</h3></Card.Title>
+                   <Card.Title style={{textAlign:"center"}}><h3> ADD BOOK</h3></Card.Title>
                    <h4><Link to="/"  className="btn btn-primary">Book List</Link></h4>
                    <Form onSubmit ={this.onSubmit}>
                        <FormGroup>
