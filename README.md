@@ -2,7 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 ### Book list
+![alt text](https://raw.githubusercontent.com/meSailesh/BookList/master/snapshots/booklist.PNG)
+### Show Book
+![alt text](https://raw.githubusercontent.com/meSailesh/BookList/master/snapshots/showbook.PNG)
+### Add Book
 ![alt text](https://raw.githubusercontent.com/meSailesh/BookList/master/snapshots/addbook.PNG)
+### Edit Book
+![alt text](https://raw.githubusercontent.com/meSailesh/BookList/master/snapshots/editbook.PNG)
 ## Available Scripts
 
 In the project directory, you can run:
